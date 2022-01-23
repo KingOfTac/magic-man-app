@@ -1,5 +1,5 @@
 # magic-man-app
-Issues repository &amp; readme for a MTG multiplayer application.
+Issues, roadmap &amp; readme for a MTG multiplayer application.
 
 ## Links
 - [Roadmap](https://github.com/users/KingOfTac/projects/2/views/1)
