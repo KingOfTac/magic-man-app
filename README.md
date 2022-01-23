@@ -1,6 +1,10 @@
 # magic-man-app
 Issues repository &amp; readme for a MTG multiplayer application.
 
+## Links
+- [Roadmap](https://github.com/users/KingOfTac/projects/2/views/1)
+- App - TBD
+
 ## Technolgies Used
 1. React with native web components from [FAST](https://github.com/microsoft/fast) on the frontend.
 2. .Net Core 3.1 and signalR on the backend.
